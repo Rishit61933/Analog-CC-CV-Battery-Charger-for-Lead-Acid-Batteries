@@ -139,19 +139,6 @@ The CC and CV loops **compete** to control the gate of the main MOSFET:
 
 ---
 
-## 📁 Repository Structure
-
-```
-analog-cc-cv-battery-charger/
-├── README.md
-├── .gitignore
-├── proposal/
-│   └── The_Semicons_Project_Proposal_AMSC.pdf
-├── schematics/
-│   └── (KiCad / LTSpice files — to be added)
-└── assets/
-    └── (circuit photos, PCB renders — to be added)
-```
 
 ---
 
