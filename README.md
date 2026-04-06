@@ -173,5 +173,4 @@ The full project proposal (with block diagram, circuit diagram, and step-by-step
 ## 📚 References
 
 1. [A Low Dropout CC-CV 12V Lead Acid Battery Charger — EE World Online](https://www.eeworldonline.com/a-low-dropout-cc-cv-12v-lead-acid-battery-charger-with-auto-trickle-charge/)
-2. [Low Dropout Battery Charger Design Techniques — EE Times](https://www.eetimes.com/low-dropout-battery-charger-design-techniques/)
-3. [Lead Acid Battery Charger Reference Design — Texas Instruments SLVA576A](https://www.ti.com/lit/an/slva576a/slva576a.pdf)
+2. [Lead Acid Battery Charger Reference Design — Texas Instruments SLVA576A](https://www.ti.com/lit/an/slva576a/slva576a.pdf)
