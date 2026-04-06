@@ -13,6 +13,8 @@
 
 This project implements a **low-dropout CC-CV charger** with automatic trickle charge mode — entirely in analog. No microcontrollers, no firmware, no bugs. A **P-channel MOSFET (IRF9540)** acts as the main power-pass element, with analog feedback loops handling all stage transitions automatically.
 
+![2](https://github.com/user-attachments/assets/c6b1f56c-9d2b-456e-9b1f-feb739dd39d7)
+
 ### Charging Stages
 
 ```
