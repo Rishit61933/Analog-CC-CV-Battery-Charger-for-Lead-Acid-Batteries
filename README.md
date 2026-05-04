@@ -141,15 +141,6 @@ The CC and CV loops **compete** to control the gate of the main MOSFET:
 
 ---
 
-
----
-
-## 📄 Proposal
-
-The full project proposal (with block diagram, circuit diagram, and step-by-step build plan) is available in the [`proposal/`](./proposal/) folder.
-
----
-
 ## 🔮 Future Work
 
 - Temperature-compensated charging curves for better battery longevity
